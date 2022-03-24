@@ -1,7 +1,9 @@
+cucumbermap\Hookable.class
 methods\HTMLReportGenerator.class
 methods\SeleniumOperations.class
 plainTest\UnitTestCase.class
 testRunner\SmokeTest.class
 cucumbermap\Login.class
+cucumbermap\ManageAddress.class
 testRunner\RegressionTest.class
 testRunner\Test.class
